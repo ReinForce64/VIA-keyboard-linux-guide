@@ -11,5 +11,5 @@
 	3. e.g. V series definitions files are here: https://www.keychron.com/pages/firmware-and-json-files-of-the-keychron-qmk-v-and-v-max-series-keyboards
 	4. in the _settings_ tab of VIA software, select _show design tab_
 	5. in the _design_ tab, select _Load_, select the json file, remember to extract it from the downloaded zip file first
-5. Connect your keyboard using a USB cable, flip the switch on the keyboard to "wired"
+5. Connect your keyboard using a USB cable, flip the switch on the keyboard to "wired". Right click the app image file and select "run in konsole".
 6. Good Luck.
